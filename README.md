@@ -2,18 +2,11 @@
 <img src="figuras/logo_rise_eafit.png" alt="PEAK Urban logo" align="left" width ="400" height="266">
 
 
+  
+
 Potencial de reactivación económica de los municipios de Antioquia en medio de la crisis del COVID-19 
 ====================================================================================
 
-# Equipo de trabajo:
-
-Juan Carlos Duque<sup>1</sup> y Juan Camilo Saldarriaga<sup>1</sup>,
-
-<sup>1</sup> RiSE-group, Departmento de Ciencias Matemáticas, Universidad EAFIT, Medellin, Colombia
-
-__maintainer__ = "RiSE Group"  (http://www.rise-group.org/). Universidad EAFIT
-
-__Corresponding author__ = jduquec1@eafit.edu.co (JCD)
 
 # Equipo de trabajo: 
 Juan Carlos Duque y Juan Camilo Saldarriaga
