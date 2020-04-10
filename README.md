@@ -1,5 +1,5 @@
 
-<img src="figuras/logo_rise_eafit.png" alt="PEAK Urban logo" align="center" width ="400" height="266">
+<img src="figuras/logo_rise_eafit.png" alt="PEAK Urban logo" align="center">
 
 
   
