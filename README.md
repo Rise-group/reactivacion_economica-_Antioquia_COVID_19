@@ -18,7 +18,7 @@ Este repositorio contiene los resultados del análisis realizado por el grupo Ri
 
 
 # Datos fuente: 
-* Pila 2019 proporcionado por Banco de la República (Sede Medellín).
+* Estadísticas agregadas con base en Pila 2019 proporcionadas por el Banco de la República (Sede Medellín).
 
 * Mapa de riesgo COVID-19 proporcionado por la Gobernación de Antioquia.
 
