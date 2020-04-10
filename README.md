@@ -29,7 +29,7 @@ Este repositorio contiene los resultados del análisis realizado por el grupo Ri
 
 # Resultados:
 
-## [Mapa de riesgo COVID-19 al 6 de abril de 2020](figuras/mapa_riesgo_COVID_19_abril_6.png)  
+## [Mapa de riesgo COVID-19 al 6 de abril de 2020](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/mapa_riesgo_COVID_19_abril_6.png)  
 
 ## <a href='#mapas_ciiu_2d'>Resultados CIIU a 2 dígitos</a>
 ## <a href='#mapas_ciiu_4d'>Resultados CIIU a 4 dígitos</a>
