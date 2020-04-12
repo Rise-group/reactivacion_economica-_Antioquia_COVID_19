@@ -36,6 +36,11 @@ Este repositorio contiene los resultados del análisis realizado por el grupo Ri
 ## <a href='#tablas_ciiu_4d'>Tablas de caracterización CIIU a 4 dígitos</a>
 
 
+### Cadenas de suministro
+
+* [Confecciones](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/cadenas_suministro/mapa_comp_cadenas_suministro_penalz_riesgo_sector_confecciones.png)  
+* [Alimentos](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/cadenas_suministro/mapa_comp_cadenas_suministro_penalz_riesgo_sector_alimentos.png)  
+* [Construcción](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/cadenas_suministro/mapa_comp_cadenas_suministro_penalz_riesgo_sector_construccion.png)  
 
 <a id='mapas_ciiu_2d'></a>
 ### Resultados CIIU a 2 dígitos
@@ -1048,4 +1053,3 @@ Este repositorio contiene los resultados del análisis realizado por el grupo Ri
 9810 Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio | 6 | 28 | 83 | 33.73% | 575997 | 0.00% 
 9820 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio | 5 | 6 | 8 | 75.00% | 575997 | 0.00% 
 9900 Actividades de organizaciones y entidades extraterritoriales | 20 | 119 | 308 | 38.64% | 575997 | 0.02% 
-
