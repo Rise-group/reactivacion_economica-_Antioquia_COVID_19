@@ -1,4 +1,3 @@
-
 <img src="figuras/logo_rise_eafit.png" alt="PEAK Urban logo" align="center" >
 
 
@@ -90,8 +89,6 @@ Y ENSERES DOMÉSTICOS](https://raw.githubusercontent.com/Rise-group/reactivacion
 * [55 HOTELES, RESTAURANTES, BARES Y SIMILARES](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_55.png)  
 * [60 TRANSPORTE POR VÍA TERRESTRE; TRANSPORTE POR TUBERÍAS](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_60.png)  
 * [61 TRANSPORTE POR VÍA ACUÁTICA](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_61.png)  
-* [62 TRANSPORTE POR VÍA AÉREA](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_62.png)  
-* [63 ACTIVIDADES COMPLEMENTARIAS Y AUXILIARES AL TRANSPORTE; ACTIVIDADES DE AGENCIAS DE VIAJES](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_63.png)  
 * [64 CORREO Y TELECOMUNICACIONES](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_64.png)  
 * [65 INTERMEDIACIÓN FINANCIERA, EXCEPTO LOS SEGUROS Y LOS FONDOS DE PENSIONES Y CESANTÍAS](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_65.png)  
 * [66 FINANCIACIÓN DE PLANES DE SEGUROS Y PENSIONES, EXCEPTO LA SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/ciiu_2d/mapa_local_pen_riesgo_sector_ciiu_66.png)  
