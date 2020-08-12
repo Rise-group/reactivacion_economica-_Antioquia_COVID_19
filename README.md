@@ -21,14 +21,9 @@ Este repositorio contiene los resultados del análisis realizado por el grupo Ri
 
 * Mapa de riesgo COVID-19 proporcionado por la Gobernación de Antioquia.
 
-# Medodología: 
-
-<img src="figuras/metodo.png" alt="PEAK Urban logo" align="center">
-
-
 # Resultados:
 
-## [Mapa de riesgo COVID-19 al 6 de abril de 2020](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/master/figuras/mapa_riesgo_COVID_19_abril_6.png)  
+## [Mapa de tasas de incidencias de COVI-19 por cada 100mil habitantes reportado por el Instituto Nacional de Salud al día 10 de agosto de 2020 (11:00 pm)](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/blob/master/figuras/Figura%201%20tasa%20de%20incidencia.png)  
 
 ## <a href='#mapas_ciiu_2d'>Resultados CIIU a 2 dígitos</a>
 ## <a href='#mapas_ciiu_4d'>Resultados CIIU a 4 dígitos</a>
