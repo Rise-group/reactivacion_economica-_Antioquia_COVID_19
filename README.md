@@ -23,7 +23,7 @@ Este repositorio contiene los resultados del análisis realizado por el grupo Ri
 
 # Resultados:
 
-## [Mapa de tasas de incidencias de COVI-19 por cada 100mil habitantes reportado por el Instituto Nacional de Salud al día 10 de agosto de 2020 (11:00 pm)](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/blob/master/figuras/Figura%201%20tasa%20de%20incidencia.png)  
+## [Mapa de tasas de incidencias de COVID-19 por cada 100mil habitantes reportado por el Instituto Nacional de Salud al día 10 de agosto de 2020 (11:00 pm)](https://raw.githubusercontent.com/Rise-group/reactivacion_economica_Antioquia_COVID_19/blob/master/figuras/Figura%201%20tasa%20de%20incidencia.png)  
 
 ## <a href='#mapas_ciiu_2d'>Resultados CIIU a 2 dígitos</a>
 ## <a href='#mapas_ciiu_4d'>Resultados CIIU a 4 dígitos</a>
